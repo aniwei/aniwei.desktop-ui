@@ -1,0 +1,18 @@
+.weui_tabbar_icon {
+  color: #888;
+  font-size: 20px;
+  text-align: center;
+}
+.weui_tabbar {
+  position: fixed
+}
+.weui_media_desc {
+  overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+}
+
+
+.view__app-scene {
+  padding-bottom: 55px;
+}
